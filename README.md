@@ -1,12 +1,13 @@
-# Skeleton NodeJS, Express e MongoDB
+## Running React on Repl.it
 
-## Primeiro passo
-    git clone https://github.com/luizpicolo/sample-nodejs-express-mongodb.git NOME_DO_PROJETO
+[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
 
-## Segundo passo
-Acesse o seu projeto `cd NOME_DO_PROJETO` e rode o comando `npm i
+[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
 
-## Terceiro passo
-    npm start
+Using the two in conjunction is one of the fastest ways to build a web app.
 
-Agora seu sistema já pode ser acesso pelo endereço `localhost:3000`
+### Getting Started
+- Hit run
+- Edit [App.jsx](#src/App.jsx) and watch it live update!
+
+By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the `.replit` file.
